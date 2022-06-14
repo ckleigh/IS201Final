@@ -1,0 +1,31 @@
+/*Camilla Leigh 06/13/22*/
+
+.links {
+    color: white;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.homepg {
+    background-color: #ffb33a;
+}
+
+.aboutme {
+    background-color: #e9fcf0;
+}
+
+.tableau {
+    background-color: #dbbbff;
+}
+
+.notbold {
+    font-weight: normal;
+}
+
+.tabtitles {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: larger;
+}
